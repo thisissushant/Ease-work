@@ -17,3 +17,14 @@
 **5. Code Reviews and Pull Requests**
 * Use pull requests for merging changes into the main branch.
 * Ensure code reviews are conducted before merging to maintain code quality and consistency.
+
+**6. Branching Strategy**
+* **main:** Stable, production-ready code.
+* **develop:** Latest development changes.
+* **feature/feature-name:** New features.
+* **bugfix/bug-name:** Bug fixes.
+
+**7 Commit Messages**
+* Use clear, concise commit messages following a consistent format.
+* Example format: type(scope): message (e.g., feat(auth): add login functionality).
+
